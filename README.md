@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Melvin Jonathan](github-header-banner.png)
-### Undergraduate Computer Science Major on BINUS University Alam Sutera</h5>
+<h5 align="left">Undergraduate Computer Science Major on BINUS University Alam Sutera</h5>
 
 ###
 
@@ -101,16 +101,6 @@ Here are some ideas to get you started:
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinJonathan/MelvinJonathan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinJonathan/MelvinJonathan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MelvinJonathan/MelvinJonathan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img src="https://raw.githubusercontent.com/MelvinJonathan/MelvinJonathan/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
