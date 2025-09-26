@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Melvin Jonathan](github-header-banner.png)
-
-<h5 align="left">Undergraduate Computer Science Major on BINUS University Alam Sutera</h5>
+### Undergraduate Computer Science Major on BINUS University Alam Sutera</h5>
 
 ###
 
